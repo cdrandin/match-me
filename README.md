@@ -2,6 +2,8 @@
 
 > a match pairing game
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/cc598e4d-e07d-4800-ae62-0f57ace24faa/deploy-status)](https://app.netlify.com/sites/match-me/deploys)
+
 ## Build Setup
 
 ``` bash
